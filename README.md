@@ -9,7 +9,7 @@
 3. P2, P3 and P4 links for both web viewing and github.
 4. A little bit of information about ourselves.
 
-### Links
+### Links:
 #####[P1 Web View](http://p1.frankpbaldwin.com)
 #####[P1 Github] (https://github.com/frankbaldwin/P1)
 
