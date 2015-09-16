@@ -13,3 +13,6 @@
 #####[P1 Web View](http://p1.frankpbaldwin.com)
 #####[P1 Github] (https://github.com/frankbaldwin/P1)
 
+### Note:
+
+Currently having issues hosting on DigitalOcean. Did transfers a tad late, will check back to see if it resolves the issue.
