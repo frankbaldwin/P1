@@ -10,6 +10,6 @@
 4. A little bit of information about ourselves.
 
 ### Links
-[P1 Web View link](http://p1.frankpbaldwin.com)
-[P1 Github link] (https://github.com/frankbaldwin/P1)
+#####[P1 Web View](http://p1.frankpbaldwin.com)
+#####[P1 Github] (https://github.com/frankbaldwin/P1)
 
