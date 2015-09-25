@@ -15,4 +15,4 @@
 
 ### Note:
 
-Currently having issues hosting on DigitalOcean. Did transfers a tad late, will check back to see if it resolves the issue.
+Resolved subdomain issue by removing .gitignore from directory.
